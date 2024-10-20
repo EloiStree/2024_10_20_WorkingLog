@@ -10,3 +10,17 @@ HELP-OUT: When you are back.
 COMMENT: This is helpful when working on site. As you are lost 1/3 o 2/3 of timing on helping other.
 
 NOTE: Note or comment are just additional information in case you need them later to remind you what you were doing.
+
+QUICKY-21H>22H: When you have a idea as developer what ever the timing you work on it. And it is often out of the working time.
+QUICKY-01H>02H: It allows to note that you had to do something quick for the project. Like having a meeting with someone
+QUICKY-12H-13H: Or a meeting during your break with the client or the boss.
+
+
+IN-8h30: It is very rare that you arrive to work and have the time to git in. Because you help, or speak, with some people. Or because you start coding directly.
+In-28-20H: Is helpful if you are at 02h00 in the morning and did not plan to work when it was 20H yesterday.
+IN-9h00-2021-09-30: Is helpful if you worked so much that you forget to register your git-in
+OUT-18h00-2021-09-20: It also happens that you work offline for a week.
+
+
+- IN-FULL-yyyy-mm-dd: Allows to give information on the day you worked but did not took record of what you did exactly.
+- INOUT-FULL-yyyy-mm-dd-yyyy-mm-dd: Allows to add some days information without details (in case you did not log information)
