@@ -1,0 +1,1 @@
+git log --pretty=format:"<hash><author><committer><committer-date>" > commitlog.csv

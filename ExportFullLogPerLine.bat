@@ -1,0 +1,1 @@
+git log --pretty="format:%%ae%%x7E%%ai%%x7E%%H%%x7E%%s%%x7E%%b" > commitlog.csv
