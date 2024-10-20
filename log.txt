@@ -1,0 +1,71 @@
+commit 1a930e3c745ea20486436c26c47b4e9710790958
+Author: Eloi Strée <eloistree@gmail.com>
+Date:   Sun Oct 20 14:35:25 2024 +0200
+
+    OUT: Wrote some example of use for the comment.
+
+commit 6cfe7ce0ee6a317bfca0e37dff45900933f75762
+Author: Eloi Strée <eloistree@gmail.com>
+Date:   Sun Oct 20 14:34:46 2024 +0200
+
+    LOG:Save description of command
+
+commit 04b84657e71820b1e50ac7a2c3007923116c316f
+Author: Eloi Strée <eloistree@gmail.com>
+Date:   Sun Oct 20 14:34:20 2024 +0200
+
+    Save description of command
+
+commit a0416def13313825c1d14053283965e85ef24677
+Author: Eloi Strée <eloistree@gmail.com>
+Date:   Sun Oct 20 14:23:56 2024 +0200
+
+    COMMENT: Some commentary to keep track of what you did
+
+commit f5c5efc8363c8aa9acb9667b0846392cdc571caf
+Author: Eloi Strée <eloistree@gmail.com>
+Date:   Sun Oct 20 14:22:07 2024 +0200
+
+    HELP: Is use to notify that you are not working because you are helping the team
+
+commit 74b01620c994a8dfe7294d2fae836ef3511c73c0
+Author: Eloi Strée <eloistree@gmail.com>
+Date:   Sun Oct 20 14:18:13 2024 +0200
+
+    Log: You can use log to explain what you are working on.
+
+commit c84a18b42ecb3e7e073cc5c37423a71c8f299416
+Author: Eloi Strée <eloistree@gmail.com>
+Date:   Sun Oct 20 14:17:11 2024 +0200
+
+    IN: I start working on the demo of the tool.
+
+commit 22afc3267fd612830c32e57d4677ec288d74d9c8
+Author: Éloi Strée <eloistree@gmail.com>
+Date:   Sun Oct 20 14:15:03 2024 +0200
+
+    Add files via upload
+
+commit 10495a91b4bc6d25658b3a7bed3b0d54ff71ee13
+Author: Éloi Strée <eloistree@gmail.com>
+Date:   Sun Oct 20 14:12:05 2024 +0200
+
+    Update README.md
+
+commit 4d9adb25c79ade9060465a5be4b0885f7a096ee9
+Author: Éloi Strée <eloistree@gmail.com>
+Date:   Sun Oct 20 14:11:54 2024 +0200
+
+    Update README.md
+
+commit c9d1a59455086fe3aa70716ab467eb9b6b76550e
+Author: Éloi Strée <eloistree@gmail.com>
+Date:   Sun Oct 20 14:11:06 2024 +0200
+
+    Update README.md
+
+commit aa3166313949c1e5bffab9d436aca195d1b16392
+Author: Éloi Strée <eloistree@gmail.com>
+Date:   Sun Oct 20 14:07:11 2024 +0200
+
+    Initial commit
