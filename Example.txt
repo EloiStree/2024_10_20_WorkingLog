@@ -24,3 +24,4 @@ OUT-18h00-2021-09-20: It also happens that you work offline for a week.
 
 - IN-FULL-yyyy-mm-dd: Allows to give information on the day you worked but did not took record of what you did exactly.
 - INOUT-FULL-yyyy-mm-dd-yyyy-mm-dd: Allows to add some days information without details (in case you did not log information)
+ 
