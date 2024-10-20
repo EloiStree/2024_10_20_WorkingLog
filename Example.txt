@@ -1,2 +1,11 @@
 IN: I start working on the demo of the tool.
 Log: You can use log to explain what you are working on.
+WAY: You can use to log what you were working in the train.
+WAY-IN: If you want to be precise on the timing
+WAY-OUT: When you stop working in the train.
+
+HELP: You are not working on the topic but helping someone of the team.
+HELP-IN: If you think it will take time
+HELP-OUT: When you are back.
+COMMENT: This is helpful when working on site. As you are lost 1/3 o 2/3 of timing on helping other.
+
