@@ -9,3 +9,4 @@ HELP-IN: If you think it will take time
 HELP-OUT: When you are back.
 COMMENT: This is helpful when working on site. As you are lost 1/3 o 2/3 of timing on helping other.
 
+NOTE: Note or comment are just additional information in case you need them later to remind you what you were doing.
